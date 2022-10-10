@@ -1,0 +1,107 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 2,
+        "name": "Check Login Functionality",
+        "description": "",
+        "id": "zoho-application;check-login-functionality",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 4220807201,
+              "status": "passed"
+            },
+            "line": 3,
+            "name": "user Launch The Application Url",
+            "match": {
+              "location": "StepDefinition5.user_Launch_The_Application_Url()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 1211122900,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "user Click On SignUpNow",
+            "match": {
+              "location": "StepDefinition5.user_Click_On_SignUpNow()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 151007300,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "user Enter the Username In The Username Field",
+            "match": {
+              "location": "StepDefinition5.user_Enter_the_Username_In_The_Username_Field()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 189121200,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "user Enter The Password In The Passwod Field",
+            "match": {
+              "location": "StepDefinition5.user_Enter_The_Password_In_The_Passwod_Field()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 3084927700,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "user Click On Agree Check Box",
+            "match": {
+              "location": "StepDefinition5.user_Click_On_Agree_Check_Box()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 3113353500,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "user Click The SignUp Button",
+            "match": {
+              "location": "StepDefinition5.user_Click_The_SignUp_Button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 3283267499,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "user Takes Screenshot Of The Current Webpage",
+            "match": {
+              "location": "StepDefinition5.user_Takes_Screenshot_Of_The_Current_Webpage()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "Zoho Application",
+    "description": "",
+    "id": "zoho-application",
+    "keyword": "Feature",
+    "uri": "C:/Users/WELCOME/eclipse-workspace/IPTZohoProject/src/test/java/com/feature5/Zoho.feature",
+    "tags": []
+  }
+]
